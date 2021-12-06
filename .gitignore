@@ -17,6 +17,8 @@
 # Builds
 cmd/channels/discord/discord
 
+# Secrets
+.local.env
+
 # Others
 .vscode
-.local.env

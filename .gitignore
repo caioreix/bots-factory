@@ -14,5 +14,11 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+# Builds
+cmd/channels/discord/discord
+
+# Secrets
+.local.env
+
 # Others
 .vscode
